@@ -1,3 +1,5 @@
+![hq720](https://github.com/user-attachments/assets/dfcc0ea2-89db-4cbc-93c3-ba7d748553d3)
+
 🚀 Arc Raiders FPS Booster — Performance. Clarity. Control.
 
 Arc Raiders FPS Booster is a lightweight performance optimization toolkit designed to deliver smoother gameplay, higher frame rates, and reduced input latency in Arc Raiders.
